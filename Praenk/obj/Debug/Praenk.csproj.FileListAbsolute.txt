@@ -1,0 +1,14 @@
+C:\Users\Monkey-D\source\repos\Praenk\Praenk\bin\Debug\Praenk.exe.config
+C:\Users\Monkey-D\source\repos\Praenk\Praenk\bin\Debug\Praenk.exe
+C:\Users\Monkey-D\source\repos\Praenk\Praenk\bin\Debug\Praenk.pdb
+C:\Users\Monkey-D\source\repos\Praenk\Praenk\obj\Debug\Praenk.csprojAssemblyReference.cache
+C:\Users\Monkey-D\source\repos\Praenk\Praenk\obj\Debug\MainWindow.g.cs
+C:\Users\Monkey-D\source\repos\Praenk\Praenk\obj\Debug\App.g.cs
+C:\Users\Monkey-D\source\repos\Praenk\Praenk\obj\Debug\Praenk_MarkupCompile.cache
+C:\Users\Monkey-D\source\repos\Praenk\Praenk\obj\Debug\Praenk_MarkupCompile.lref
+C:\Users\Monkey-D\source\repos\Praenk\Praenk\obj\Debug\MainWindow.baml
+C:\Users\Monkey-D\source\repos\Praenk\Praenk\obj\Debug\Praenk.g.resources
+C:\Users\Monkey-D\source\repos\Praenk\Praenk\obj\Debug\Praenk.Properties.Resources.resources
+C:\Users\Monkey-D\source\repos\Praenk\Praenk\obj\Debug\Praenk.csproj.GenerateResource.cache
+C:\Users\Monkey-D\source\repos\Praenk\Praenk\obj\Debug\Praenk.exe
+C:\Users\Monkey-D\source\repos\Praenk\Praenk\obj\Debug\Praenk.pdb
